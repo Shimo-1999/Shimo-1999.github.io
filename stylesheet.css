@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: ;
   background-size: cover;
   color: white;
   text-align: center;
@@ -45,17 +45,33 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
+.atcoder {
+  background-color: green;
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
+}
+.kaggle {
+  background-color: rgb(68, 118, 226);
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
 }
 
-.facebook {
-  background-color: #3b5998;
+.gitlab {
+  background-color: #292961;
   margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
+}
+
+.github {
+  background-color: #000000;
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
 }
 
 .twitter {
   background-color: #55acee;
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
 }
 
 .btn {
@@ -78,8 +94,8 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
-  position :fixed;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
   top: 0;
   z-index: 10;
 }
@@ -108,7 +124,7 @@ header {
 }
 
 .header-right a:hover {
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .lesson-wrapper {
@@ -121,8 +137,8 @@ header {
 }
 
 .heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 7px;
   color: #5f5d60;
 }
 
@@ -133,17 +149,6 @@ header {
 .lesson {
   float: left;
   width: 25%;
-}
-
-.lesson-icon {
-  position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 37%;
-  width: 100%;
-  color: white;
 }
 
 .text-contents {
@@ -210,7 +215,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 990px;
+    height: 100px;
   }
 
   footer {
