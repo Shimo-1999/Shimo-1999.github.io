@@ -138,27 +138,3 @@ footer p {
   margin-bottom: 60px;
   color: gray;
 }
-
-@media all and (max-width: 750px) {
-  .top-wrapper h1 {
-    font-size: 32px;
-  }
-
-  .heading h2 {
-    font-size: 20px;
-  }
-}
-
-@media all and (max-width: 670px) {
-  .btn-wrapper {
-  margin-top: 10px;
-  text-align: center;
-  /* display: flex; */
-}
-
-.btn-wrapper2 {
-  margin-top: 10px;
-  text-align: center;
-  /* display: flex; */
-}
-}
