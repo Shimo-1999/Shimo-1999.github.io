@@ -104,8 +104,15 @@ a {
   margin-right: 10px;
   box-shadow: 2px 2px 4px gray;
 }
+
 .kaggle {
   background-color: rgb(68, 118, 226);
+  margin-right: 10px;
+  box-shadow: 2px 2px 4px gray;
+}
+
+.omc {
+  background-color: #C0C0C0;
   margin-right: 10px;
   box-shadow: 2px 2px 4px gray;
 }
