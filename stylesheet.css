@@ -100,8 +100,8 @@ a {
 }
 
 .atcoder {
-  /* color: #111111; */
-  background-color: green;
+  color: #111111;
+  background-color: cyan;
   margin-right: 10px;
   box-shadow: 2px 2px 4px gray;
 }
