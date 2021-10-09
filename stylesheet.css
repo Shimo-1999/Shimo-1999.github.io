@@ -101,14 +101,17 @@ a {
 
 .atcoder {
   color: #111111;
+  /* background-color: green; */
   background-color: cyan;
+  /* background-color: blue; */
   margin-right: 10px;
   box-shadow: 2px 2px 4px gray;
 }
 
 .codeforces {
-  color: #111111;
-  background-color: cyan;
+  /* color: #111111; */
+  /* background-color: cyan; */
+  background-color: blue;
   margin-right: 10px;
   box-shadow: 2px 2px 4px gray;
 }
